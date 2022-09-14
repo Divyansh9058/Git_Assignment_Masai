@@ -1,3 +1,5 @@
+// check string is palindrome or not.
+
 let str="naman";
 
 let bag="";
