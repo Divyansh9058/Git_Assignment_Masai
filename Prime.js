@@ -1,3 +1,7 @@
+
+//prime number code from 1 to 15.
+
+
 for(let i=1;i<=15;i++){
     let count=0;
 
